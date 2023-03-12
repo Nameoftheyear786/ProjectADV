@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgb(177, 241, 185);
+}
+
+#googlelens{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+#MobilenetModel{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#title{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+
